@@ -14,9 +14,9 @@
 
 ## ทุนการศึกษา / ทุนวิจัย
 
-- [Irish Research Council](https://www.educationinireland.com/en/)
-- [Science Foundation Ireland](https://www.sfi.ie/)
-- [Government of Ireland – International Education Scholarships](https://hea.ie/policy/internationalisation/goi-ies/)
+- **[Government of Ireland – International Education Scholarships](https://hea.ie/policy/internationalisation/goi-ies/)**
+- **[Irish Research Council](https://www.educationinireland.com/en/)**
+- **[Science Foundation Ireland](https://www.sfi.ie/)**
 - ติดตามเว็บไซต์และสื่อสังคมของมหาวิทยาลัย คณะ ศูนย์วิจัย และอาจารย์ในสาขาวิชาต่างๆ ในมหาวิทยาลัย สำหรับข่าวสารทุนการศึกษา ทุนวิจัย และทุนวิจัยระยะสั้น ที่จะมีประกาศตลอดปี
 - **[Study in Europe](https://education.ec.europa.eu/study-in-europe/planning-your-studies/scholarships-and-funding)** - รวมทุนการศึกษา ทุนวิจัย และการสนับสนุนทางการเงินอื่นๆ จากหน่วยงานในสหภาพยุโรป - เลือกหน้า **[Ireland](https://education.ec.europa.eu/study-in-europe/countries/ireland)**
 - **[EURAXESS ASEAN](https://euraxess.ec.europa.eu/worldwide/asean)** - รวมทุนวิจัยที่เป็นความร่วมมือระหว่างสหภาพยุโรปและอาเซียน
@@ -53,7 +53,7 @@
 - [Daft](https://www.daft.ie/) - เว็บไซต์หาบ้าน มีทั้งแบบมีห้องนอน ห้องน้ำ และครัวเป็นส่วนตัว แบบมีห้องนอนและห้องน้ำเป็นส่วนตัว แบบแชร์ห้องน้ำ ไปจนถึงแบบแชร์ห้องนอน
   - ถ้าสงสัยว่าย่านไหนในเมืองไหนเป็นอย่างไร ลองถามในกรุ๊ปได้ [https://www.facebook.com/groups/thaisocietyireland/](https://www.facebook.com/groups/thaisocietyireland/)
 - [Hosting Power](https://hostingpower.ie) - เว็บไซต์หาบ้านแบบที่ไปพักอยู่กับเจ้าของบ้าน
-- [Residential Tenancies Board](https://www.rtb.ie/) - คณะกรรมการผู้เช่าพักอาศัย เป็นหน่วยงานอิสระของรัฐบาลไอร์แลนด์ มีหน้าที่รับลงทะเบียนผู้เช่าและผู้ให้เช่า ไกลเกลี่ยข้อพิพาท และคุ้มครองผู้เช่า ผู้ให้เช่ามีหน้าที่ในการลงทะเบียนชื่อผู้เช่ากับ RTB
+- [Residential Tenancies Board](https://www.rtb.ie/) - คณะกรรมการผู้เช่าพักอาศัย เป็นหน่วยงานอิสระของรัฐบาลไอร์แลนด์ มีหน้าที่รับลงทะเบียนผู้เช่าและผู้ให้เช่า ไกล่เกลี่ยข้อพิพาท และคุ้มครองผู้เช่า ผู้ให้เช่ามีหน้าที่ในการลงทะเบียนชื่อผู้เช่ากับ RTB
 - [Tenants’ rights and responsibilities](https://www.citizensinformation.ie/en/housing/renting-a-home/tenants-rights-and-responsibilities/tenants-rights-and-obligations/) - ข้อมูลจาก Citizens Information เกี่ยวกับสิทธิของผู้เช่า รวมถึงสิทธิในการขอคืนเครดิตภาษีจำนวน 500 ยูโรต่อปี
 - [Threshold](https://threshold.ie/) - องค์กรไม่แสวงกำไรที่ทำงานด้านสิทธิในที่อยู่อาศัย มีข้อมูลเกี่ยวกับสิทธิผู้เช่า
 
