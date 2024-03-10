@@ -2,6 +2,7 @@
 
 - Facebook page - [https://www.facebook.com/thaistudentsinireland](https://www.facebook.com/thaistudentsinireland)
 - Facebook group - [https://www.facebook.com/groups/thaisocietyireland/](https://www.facebook.com/groups/thaisocietyireland/)
+- บล็อกชมรมนักเรียนไทยในสาธารณรัฐไอร์แลนด์ (จากปี 2551 ปัจจุบันไม่ได้ปรับปรุงแล้ว) http://stsi2551.blogspot.com/
 
 ----
 
