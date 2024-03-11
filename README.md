@@ -1,8 +1,8 @@
 # thaisocireland.github.io
 
-- Facebook page - [https://www.facebook.com/thaistudentsinireland](https://www.facebook.com/thaistudentsinireland)
-- Facebook group - [https://www.facebook.com/groups/thaisocietyireland/](https://www.facebook.com/groups/thaisocietyireland/)
-- บล็อกชมรมนักเรียนไทยในสาธารณรัฐไอร์แลนด์ (จากปี 2551 ปัจจุบันไม่ได้ปรับปรุงแล้ว) [http://stsi2551.blogspot.com/](http://stsi2551.blogspot.com/)
+- Facebook page - [fb.com/thaistudentsinireland](https://www.facebook.com/thaistudentsinireland)
+- Facebook group - [fb.com/groups/thaisocietyireland/](https://www.facebook.com/groups/thaisocietyireland/)
+- บล็อกชมรมนักเรียนไทยในสาธารณรัฐไอร์แลนด์ (จากปี 2551 ปัจจุบันไม่ได้ปรับปรุงแล้ว) [stsi2551.blogspot.com/](http://stsi2551.blogspot.com/)
 
 ----
 
@@ -190,3 +190,15 @@
   - ในดับลินมีหนาแน่นอยู่ย่าน Temple Bar บริเวณ Temple Bar Square มาจนถึง Dame St อีกย่านคือแถว Capel St
 - [Thriftify](https://www.thriftify.ie/) - เป็นแพลตฟอร์มที่รวมเอาเสื้อผ้าจากร้านการกุศลต่างๆ มาแสดงในที่เดียว
 - ร้านขายอุปกรณ์เดินเขาเดินป่า มีเสื้อกันหนาวและรองเท้ากันน้ำ
+
+## ชุมชนไทย
+
+- [สำมะโนประชากรไอร์แลนด์ปี 2016](https://www.cso.ie/en/releasesandpublications/ep/p-cp7md/p7md/p7anii/) พบว่ามีคนมาจากประเทศไทยอยู่ในช่วง 1,000-10,000 คน
+- [สำมะโนประชากรไอร์แลนด์ปี 2022](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/migrationanddiversity/) พบว่ามีผู้พูดภาษาไทยที่บ้าน 2,478 คน
+- [เว็บไซต์สถานสถานเอกอัครราชทูต ณ กรุงลอนดอน](https://london.thaiembassy.org/th/page/thai-ireland-relations-th) ระบุว่า "ชุมชนไทยที่อาศัยอยู่ในไอร์แลนด์ ปัจจุบันมีประมาณ 3,818 คน ส่วนใหญ่พำนักอยู่ในกรุงดับลิน เมืองคอร์ก และเมืองลิเมอร์ลิค" (ปรับปรุงข้อมูล 13 ก.พ. 2024)
+- เอกอัครราชทูต ณ กรุงลอนดอน เป็นเอกอัครราชทูตวิสามัญผู้มีอำนาจเต็มประจำไอร์แลนด์
+  - การเดินทางไปติดต่อ[สถานเอกอัครราชทูต ณ กรุงลอนดอน](https://london.thaiembassy.org/) ด้วยตัวเอง จำเป็นต้องมีวีซ่า UK
+  - ตามปกติ ทางสถานทูตจะจัดกงสุลสัญจร ให้บริการทำเอกสารราชการ (หนังสือเดินทาง บัตรประชาชน แจ้งเกิด) ตามเมืองใหญ่ในไอร์แลนด์ ติดตามข่าวสารได้ที่หน้าเฟซบุ๊ก [fb.com/ThaiEmbLondon/](https://www.facebook.com/ThaiEmbLondon/) และเว็บไซต์สถานทูต [london.thaiembassy.org](https://london.thaiembassy.org/)
+- วัดไทย มีจำนวน 3 วัด ได้แก่ (1) วัดพุทธมหาธาตุ ไอร์แลนด์ เมืองคอร์ก (2) วัดไทยไอร์แลนด์ กรุงดับลิน และ (3) สำนักสงฆ์สุญญตาราม เมืองลิเมอร์ลิค (ข้อมูล สถานเอกอัครราชทูต ณ กรุงลอนดอน 13 ก.พ. 2024)
+
+
