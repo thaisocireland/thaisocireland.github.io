@@ -33,14 +33,21 @@
 
 ### การทำใบอนุญาตพำนัก (Irish Residence Permit - IRP) ครั้งแรก
 
-- อ่านเพิ่มเติมได้ที่ [How to Register Your Immigratio Permission for the First Time](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/information-on-registering-if-living-in-dublin/) 
+- อ่านเพิ่มเติมได้ที่ [How to Register Your Immigration Permission for the First Time](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/information-on-registering-if-living-in-dublin/) 
 - ในการทำ IRP ครั้งแรกผู้ดำเนินการจะต้องเดินทางมายังประเทศไอร์แลนด์และผ่านด่านตรวจเข้าเมืองเป็นที่เรียบร้อย
-- หลังจากนั้นผู้ดำเนินการจะต้องมี Irish SIM card เพื่อที่จะโทรจองคิวในการทำ IRP ที่เบอร์ 1800 800 630 (โทรฟรีไม่เสียค่าใช้จ่าย)
-  - ควรที่จะจองคิวทำ IRP ให้เร็วที่สุดเมื่อมาถึงเนื่องจากคิวเต็มค่อนข้างเร็วมาก
-  - ข้อมูลที่ต้องเตรียมคือ ชื่อ-นามสกุลภาษาอังกฤษ วันเดือนปีเกิด และอีเมล์ที่ใช้ในการติดต่อและรับอีเมล์รับรองการจองคิว โดยต้องสะกดแต่ละตัวอักษรให้เจ้าหน้าที่ฟัง แนะนำให้เปิดตาราง NATO Phonetic Alphabet เอาไว้
-- เมื่อถึงวันนัดผู้ดำเนินการจะต้องเดินทางไปยัง Registration Office in Burgh Quay, Dublin พร้อมพาสปอร์ตเล่มจริง ที่อยู่สำหรับจัดส่ง IRP card ทางไปรษณีย์ และต้องชำระค่าดำเนินการทำบัตรราคา €300
-  - Travel card บางธนาคารอาจใช้ชำระไม่ได้ แต่สามารถชำระด้วยเงินสดหรือบัตรเครดิตอื่นๆ
-- การต่ออายุวีซ่าสามารถทำผ่านออนไลน์ได้ผ่านเว็บไซต์ [Irish Immigration Service Online](https://inisonline.jahs.ie/) หลังจากนั้น IRP ใบใหม่จะถูกส่งมาให้ผ่านไปรษณีย์ อ่านเพิ่มเติมได้ที่ [Registration Renewal](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/registration-renewal-dublin)
+- การจองนัดหมาย ขึ้นอยู่กับเมืองที่อยู่
+- **ดับลิน:**
+  - หลังจากนั้นผู้ดำเนินการจะต้องมีซิมการ์ดหมายเลขโทรศัพท์ของไอร์แลนด์ เพื่อที่จะโทรจองคิวในการทำ IRP ที่เบอร์ 1800 800 630 (โทรฟรีไม่เสียค่าใช้จ่าย)
+    - ควรที่จะจองคิวทำ IRP ให้เร็วที่สุดเมื่อมาถึงเนื่องจากคิวเต็มค่อนข้างเร็วมาก
+    - ข้อมูลที่ต้องเตรียมคือ ชื่อ-นามสกุลภาษาอังกฤษ วันเดือนปีเกิด และอีเมลที่ใช้ในการติดต่อและรับอีเมลรับรองการจองคิว โดยต้องสะกดแต่ละตัวอักษรให้เจ้าหน้าที่ฟัง แนะนำให้เปิดตาราง [NATO Phonetic Alphabet](faa-nato-phonetic.png) เอาไว้
+  - เมื่อถึงวันนัดผู้ดำเนินการจะต้องเดินทางไปยัง Registration Office in Burgh Quay, Dublin พร้อมพาสปอร์ตเล่มจริง ที่อยู่สำหรับจัดส่ง IRP card ทางไปรษณีย์ และต้องชำระค่าดำเนินการทำบัตรราคา €300
+    - Travel card บางธนาคารของไทยอาจใช้ชำระไม่ได้ แต่สามารถชำระด้วยเงินสดหรือบัตรเครดิตอื่นๆ
+- **นอกดับลิน:** จองนัดหมายกับสถานีตำรวจ (Garda) ของเมืองนั้นๆ เช่น คอร์ก ให้อีเมลไปที่ corkcity.immigration@garda.ie
+
+### การต่ออายุใบอนุญาตพำนัก (IRP)
+
+- การต่ออายุวีซ่าสามารถทำผ่านออนไลน์ได้ผ่านเว็บไซต์ [Irish Immigration Service Online](https://inisonline.jahs.ie/)
+- หลังจากนั้น IRP ใบใหม่จะถูกส่งมาให้ผ่านไปรษณีย์ อ่านเพิ่มเติมได้ที่ [Registration Renewal](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/registration-renewal-dublin)
 - เมื่อได้รับ IRP แล้วทางไปรษณีย์ให้เก็บซองจดหมายที่ส่งบัตรเอาไว้เป็น Proof of Address ซึ่งเป็นเอกสารจำเป็นในการดำเนินการต่างๆ เช่น เปิดบัญชีธนาคาร
 
 ### เว็บไซต์ข้อมูลเพิ่มเติมเกี่ยวกับใบอนุญาตเข้าเมืองและใบอนุญาตพำนัก
