@@ -81,9 +81,12 @@
  
 ### เว็บไซต์หาที่พักและเว็บไซต์สิทธิของผู้เช่าพักอาศัย
 
+- [Studenthouse.com](https://studenthouse.com/) - เว็บไซต์สำหรับหาที่พักนักศึกษาโดยเฉพาะ
+- [CollegeCribs.ie](https://www.collegecribs.ie/) - เว็บไซต์สำหรับหาที่พักนักศึกษาโดยเฉพาะอีกแห่ง
 - [Daft](https://www.daft.ie/) - เว็บไซต์หาบ้าน มีทั้งแบบมีห้องนอน ห้องน้ำ และครัวเป็นส่วนตัว แบบมีห้องนอนและห้องน้ำเป็นส่วนตัว แบบแชร์ห้องน้ำ ไปจนถึงแบบแชร์ห้องนอน
   - ถ้าสงสัยว่าย่านไหนในเมืองไหนเป็นอย่างไร ลองถามในกรุ๊ปได้ [https://www.facebook.com/groups/thaisocietyireland/](https://www.facebook.com/groups/thaisocietyireland/)
-- [Hosting Power](https://hostingpower.ie) - เว็บไซต์หาบ้านแบบที่ไปพักอยู่กับเจ้าของบ้าน
+- [Hosting Power](https://hostingpower.ie) - เว็บไซต์หาบ้านแบบที่ไปพักอยู่กับเจ้าของบ้าน ถ้าอยู่แล้วไม่สะดวกใจ สามารถทำเรื่องขอย้ายได้
+- รายชื่อผู้ประกอบการหอพักนักศึกษาบางส่วน: [ISA](https://isaccommodation.com/), [Yugo](https://yugo.com/en-gb/global/ireland) (ชื่อเดิมคือ Uninest), [aparto](https://apartostudent.com/locations) - โปรดตรวจสอบกับสถานศึกษาก่อน เนื่องจากบางแห่งอาจเป็นคู่สัญญากับทางสถานศึกษาที่เราจะเข้าศึกษา และอาจให้สัญญาที่มีเงื่อนไขดีกว่า
 - [Residential Tenancies Board](https://www.rtb.ie/) - คณะกรรมการผู้เช่าพักอาศัย เป็นหน่วยงานอิสระของรัฐบาลไอร์แลนด์ มีหน้าที่รับลงทะเบียนผู้เช่าและผู้ให้เช่า ไกล่เกลี่ยข้อพิพาท และคุ้มครองผู้เช่า ผู้ให้เช่ามีหน้าที่ในการลงทะเบียนชื่อผู้เช่ากับ RTB
 - [Tenants’ rights and responsibilities](https://www.citizensinformation.ie/en/housing/renting-a-home/tenants-rights-and-responsibilities/tenants-rights-and-obligations/) - ข้อมูลจาก Citizens Information เกี่ยวกับสิทธิของผู้เช่า รวมถึงสิทธิในการขอคืนเครดิตภาษีจำนวน 500 ยูโรต่อปี
 - [Threshold](https://threshold.ie/) - องค์กรไม่แสวงกำไรที่ทำงานด้านสิทธิในที่อยู่อาศัย มีข้อมูลเกี่ยวกับสิทธิผู้เช่า
