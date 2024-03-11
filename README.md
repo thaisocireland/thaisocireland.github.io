@@ -31,6 +31,25 @@
 - การให้อนุญาตเข้าเมืองและการให้อนุญาตพำนักในไอร์แลนด์ เป็นกิจการของกระทรวงยุติธรรม (Department of Justice)
 - ไอร์แลนด์ไม่ได้เป็นสมาชิกของเขตเชงเก้น วีซ่าเชงเก้นใช้เดินทางเข้าไอร์แลนด์ไม่ได้ และวีซ่า/ใบอนุญาตพำนักของไอร์แลนด์ก็ใช้เดินทางเข้าประเทศในกลุ่มเชงเก้นไม่ได้
 
+### การทำใบอนุญาตพำนัก (Irish Residence Permit - IRP) ครั้งแรก
+
+- อ่านเพิ่มเติมได้ที่ [How to Register Your Immigration Permission for the First Time](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-register-your-immigration-permission-for-the-first-time/information-on-registering-if-living-in-dublin/) 
+- ในการทำ IRP ครั้งแรกผู้ดำเนินการจะต้องเดินทางมายังประเทศไอร์แลนด์และผ่านด่านตรวจเข้าเมืองเป็นที่เรียบร้อย
+- การจองนัดหมาย ขึ้นอยู่กับเมืองที่อยู่
+- **ดับลิน:**
+  - หลังจากนั้นผู้ดำเนินการจะต้องมีซิมการ์ดหมายเลขโทรศัพท์ของไอร์แลนด์ เพื่อที่จะโทรจองคิวในการทำ IRP ที่เบอร์ 1800 800 630 (โทรฟรีไม่เสียค่าใช้จ่าย)
+    - ควรที่จะจองคิวทำ IRP ให้เร็วที่สุดเมื่อมาถึงเนื่องจากคิวเต็มค่อนข้างเร็วมาก
+    - ข้อมูลที่ต้องเตรียมคือ ชื่อ-นามสกุลภาษาอังกฤษ วันเดือนปีเกิด และอีเมลที่ใช้ในการติดต่อและรับอีเมลรับรองการจองคิว โดยต้องสะกดแต่ละตัวอักษรให้เจ้าหน้าที่ฟัง แนะนำให้เปิดตาราง [NATO Phonetic Alphabet](faa-nato-phonetic.png) เอาไว้
+  - เมื่อถึงวันนัดผู้ดำเนินการจะต้องเดินทางไปยัง Registration Office in Burgh Quay, Dublin พร้อมพาสปอร์ตเล่มจริง ที่อยู่สำหรับจัดส่ง IRP card ทางไปรษณีย์ และต้องชำระค่าดำเนินการทำบัตรราคา €300
+    - Travel card บางธนาคารของไทยอาจใช้ชำระไม่ได้ แต่สามารถชำระด้วยเงินสดหรือบัตรเครดิตอื่นๆ
+- **นอกดับลิน:** จองนัดหมายกับสถานีตำรวจ (Garda) ของเมืองนั้นๆ เช่น คอร์ก ให้อีเมลไปที่ corkcity.immigration@garda.ie
+
+### การต่ออายุใบอนุญาตพำนัก (IRP)
+
+- การต่ออายุวีซ่าสามารถทำผ่านออนไลน์ได้ผ่านเว็บไซต์ [Irish Immigration Service Online](https://inisonline.jahs.ie/)
+- หลังจากนั้น IRP ใบใหม่จะถูกส่งมาให้ผ่านไปรษณีย์ อ่านเพิ่มเติมได้ที่ [Registration Renewal](https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/registration-renewal-dublin)
+- เมื่อได้รับ IRP แล้วทางไปรษณีย์ให้เก็บซองจดหมายที่ส่งบัตรเอาไว้เป็น Proof of Address ซึ่งเป็นเอกสารจำเป็นในการดำเนินการต่างๆ เช่น เปิดบัญชีธนาคาร
+
 ### เว็บไซต์ข้อมูลเพิ่มเติมเกี่ยวกับใบอนุญาตเข้าเมืองและใบอนุญาตพำนัก
 
 - **[ข้อมูลเกี่ยวกับการเข้าเมืองเพื่อไปศึกษาที่ไอร์แลนด์](https://www.irishimmigration.ie/coming-to-study-in-ireland/)** และ **[คำถามที่พบบ่อย](https://www.irishimmigration.ie/coming-to-study-in-ireland/frequently-asked-questions-for-students/)** สำหรับนักศึกษานานาชาติ จาก Department of Justice
@@ -94,7 +113,7 @@
 - นายจ้างจะขอ [Personal Public Service Number (PPSN)](https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/) ของเราเพื่อลงทะเบียนภาษีหัก ณ ที่จ่าย (Pay As You Earn - PAYE)
   - ถ้ายังไม่มี PPSN สามารถไปทำได้ โดยใช้หนังสือเดินทาง ที่อยู่ และเหตุผล (เพื่อทำงาน เพื่อขอรับบริการสุขภาพ) โดยระหว่างที่รอรับบัตร สามารถใช้เลข PPSN ได้ทันที 
 - ส่วนเราควรจะได้รับ Employer Number จากนายจ้างมาเพื่อลงทะเบียน/ตรวจสอบกับบัญชีใน [Revenue.ie](https://revenue.ie/) ของเราเอง
-- ในเดือนแรกของการทำงาน เป็นไปได้ว่าจะถูกหักภาษีในอัตราฉุกเฉิน ซึ่งจะเป็นอัตราสูงสุด แต่เมื่อครบปีภาษี เราสามารถขอคืนภาษีที่จ่ายไปเกินได้
+- ในเดือนแรกของการทำงาน เป็นไปได้ว่าจะถูกหักภาษีในอัตราฉุกเฉิน [(Emergency Tax)](https://www.revenue.ie/en/jobs-and-pensions/emergency-tax/index.aspx) ซึ่งจะเป็นอัตราสูงสุด แต่เมื่อได้รับเลข PPSN และแจ้งนายจ้างเรียบร้อย เราสามารถขอคืนภาษีที่จ่ายไปเกินได้ หรือหากเป็นระบบ payroll จะ refund คืนให้อัตโนมัติในรอบถัดๆไป
 
 ## ห้องสมุด
 
