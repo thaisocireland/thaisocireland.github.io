@@ -1,10 +1,6 @@
-# thaisocireland.github.io
+# ข้อมูลการเดินทางมาศึกษาต่อไอร์แลนด์
 
-- Facebook page - [fb.com/thaistudentsinireland](https://www.facebook.com/thaistudentsinireland/)
-- Facebook group - [fb.com/groups/thaisocietyireland](https://www.facebook.com/groups/thaisocietyireland/)
-- บล็อกชมรมนักเรียนไทยในสาธารณรัฐไอร์แลนด์ (จากปี 2551 ปัจจุบันไม่ได้ปรับปรุงแล้ว) [stsi2551.blogspot.com](http://stsi2551.blogspot.com/)
-
-----
+จัดทำโดย[เพจ](https://www.facebook.com/thaistudentsinireland/)/[กลุ่มเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์](https://www.facebook.com/groups/thaisocietyireland/)
 
 ## ข้อมูลทั่วไป
 
@@ -35,10 +31,17 @@
 
 ### ข้อมูลทั่วไปเกี่ยวกับใบอนุญาตเข้าเมืองและใบอนุญาตพำนัก
 
-- การมาศึกษาในประเทศไอร์แลนด์จะต้องทำใบอนุญาตเข้าเมือง (วีซ่า) เพื่อเดินทางเข้าประเทศในขั้นแรก ซึ่งโดยทั่วไปวีซ่านี้จะใช้พำนักอยู่ในไอร์แลนด์ได้ไม่เกิน 90 วัน
-- ภายใน 90 วันดังกล่าวจะต้องดำเนินการทำ **[ใบอนุญาตพำนัก (Irish Residence Permit - IRP)](https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/irish-residence-permit/)** เพื่อให้อยู่ต่อได้หลัง 90 วัน IRP มีอายุประมาณ 1 ปี เมื่อหมดอายุแล้วสามารถขอต่ออายุได้
+- การมาศึกษาในประเทศไอร์แลนด์จะต้องมี **ใบอนุญาตเข้าเมือง (วีซ่า)** เพื่อเดินทางเข้าประเทศในขั้นแรก ซึ่งโดยทั่วไปวีซ่านี้จะใช้พำนักอยู่ในไอร์แลนด์ได้ไม่เกิน 90 วัน
+  - ในประเทศไทย ทำได้ที่[สถานเอกอัครราชทูตไอร์แลนด์ ประจำประเทศไทย](https://www.ireland.ie/en/thailand/bangkok/)
+- ภายใน 90 วันหลังเข้าเมืองแล้ว จะต้องดำเนินการทำ **[ใบอนุญาตพำนัก (Irish Residence Permit - IRP)](https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/irish-residence-permit/)** เพื่อให้อยู่ต่อได้หลัง 90 วัน IRP มีอายุประมาณ 1 ปี เมื่อหมดอายุแล้วสามารถขอต่ออายุได้
 - การให้อนุญาตเข้าเมืองและการให้อนุญาตพำนักในไอร์แลนด์ เป็นกิจการของกระทรวงยุติธรรม (Department of Justice)
 - ไอร์แลนด์ไม่ได้เป็นสมาชิกของเขตเชงเก้น วีซ่าเชงเก้นใช้เดินทางเข้าไอร์แลนด์ไม่ได้ และวีซ่า/ใบอนุญาตพำนักของไอร์แลนด์ก็ใช้เดินทางเข้าประเทศในกลุ่มเชงเก้นไม่ได้
+- ผู้ถือหนังสือเดินทางไทย ที่มีวีซ่าท่องเที่ยวระยะสั้นของสหราชอาณาจักร (UK) [สามารถใช้เดินทางเข้าไอร์แลนด์ได้](https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland/#cdc9fd) - แต่จะต้องเดินทางเข้า UK ก่อนจะเดินทางไปไอร์แลนด์
+  - จำนวนวันที่อยู่ในไอร์แลนด์ได้จะนับต่อเนื่องกับวันที่อยู่ใน UK ตามเงื่อนไขของ [Short Stay Visa Waiver Programme](https://www.irishimmigration.ie/coming-to-visit-ireland/frequently-asked-questions/#525dd68e3304f4c63) และทั้งหมดจะต้องน้อยกว่า 90 วัน
+    - เช่นถ้าวีซ่าอนุญาตให้อยู่ใน UK ได้คราวละ 180 วัน และอยู่ UK ไปแล้ว 150 วัน ก็จะอยู่ในไอร์แลนด์ได้ไม่เกิน 30 วัน
+    - หรือถ้าวีซ่าอนุญาตให้อยู่ใน UK ได้คราวละ 180 วัน และอยู่ UK ไปแล้ว 10 วัน ก็จะอยู่ในไอร์แลนด์ได้ไม่เกิน 90 วัน
+  - วีซ่า/ใบอนุญาตพำนักของไอร์แลนด์ใช้เดินทางเข้าสหราชอาณาจักรไม่ได้
+- โดยทั่วไป การต่อเครื่องบิน หากยังอยู่ใน air side (ไม่ผ่านพิธีการตรวจคนเข้าเมือง) ไม่จำเป็นต้องใช้วีซ่าเปลี่ยนเครื่อง (transit visa) - โปรดตรวจสอบกับเว็บไซต์สถานทูตของประเทศที่จะไปเปลี่ยนเครื่องอีกครั้ง
 
 ### การทำใบอนุญาตพำนัก (Irish Residence Permit - IRP) ครั้งแรก
 
@@ -200,5 +203,6 @@
   - การเดินทางไปติดต่อ[สถานเอกอัครราชทูต ณ กรุงลอนดอน](https://london.thaiembassy.org/) ด้วยตัวเอง จำเป็นต้องมีวีซ่า UK
   - ตามปกติ ทางสถานทูตจะจัดกงสุลสัญจร ให้บริการทำเอกสารราชการ (หนังสือเดินทาง บัตรประชาชน แจ้งเกิด) ตามเมืองใหญ่ในไอร์แลนด์ ติดตามข่าวสารได้ที่หน้าเฟซบุ๊ก [fb.com/ThaiEmbLondon](https://www.facebook.com/ThaiEmbLondon/) และเว็บไซต์สถานทูต [london.thaiembassy.org](https://london.thaiembassy.org/)
 - วัดไทย มีจำนวน 3 วัด ได้แก่ (1) วัดพุทธมหาธาตุ ไอร์แลนด์ เมืองคอร์ก (2) วัดไทยไอร์แลนด์ กรุงดับลิน และ (3) สำนักสงฆ์สุญญตาราม เมืองลิเมอร์ลิค (ข้อมูล สถานเอกอัครราชทูต ณ กรุงลอนดอน 13 ก.พ. 2024)
-
-
+- เพจเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์ - [fb.com/thaistudentsinireland](https://www.facebook.com/thaistudentsinireland/)
+- กลุ่มเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์ - [fb.com/groups/thaisocietyireland](https://www.facebook.com/groups/thaisocietyireland/)
+- บล็อกชมรมนักเรียนไทยในสาธารณรัฐไอร์แลนด์ (จากปี 2551 ปัจจุบันไม่ได้ปรับปรุงแล้ว) [stsi2551.blogspot.com](http://stsi2551.blogspot.com/)
