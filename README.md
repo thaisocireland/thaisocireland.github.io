@@ -114,7 +114,7 @@
         เอาไว้ เพื่อการสื่อสารที่ชัดเจน
       - อย่าลืมตรวจสอบตัวสะกดทุกอย่างอีกรอบ
   - เมื่อถึงวันนัดผู้ดำเนินการจะต้องเดินทางไปยัง
-    [Registration Office in Burgh Quay, Dublin[https://maps.app.goo.gl/cjaSh5TFaTfmNtLx7]
+    [Registration Office in Burgh Quay, Dublin](https://maps.app.goo.gl/cjaSh5TFaTfmNtLx7)
     พร้อมหนังสือเดินทางเล่มจริง และที่อยู่สำหรับจัดส่งบัตร IRP ทางไปรษณีย์
     และต้องชำระค่าดำเนินการเป็นเงิน €300
     - ทราเวลการ์ดบางธนาคารของไทยอาจใช้ชำระไม่ได้
