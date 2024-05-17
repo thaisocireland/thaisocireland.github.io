@@ -2,6 +2,8 @@
 
 จัดทำโดย[เพจ](https://www.facebook.com/thaistudentsinireland/)/[กลุ่มเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์](https://www.facebook.com/groups/thaisocietyireland/)
 
+- [ข้อมูลเกี่ยวกับดับลิน](./dublin.md)
+
 ## ข้อมูลทั่วไป
 
 - **[Education in Ireland](https://www.educationinireland.com/en/)**
