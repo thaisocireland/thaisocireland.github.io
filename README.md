@@ -254,12 +254,13 @@
 
 - Leap Card เป็นบัตรเติมเงินสำหรับใช้บริการขนส่งมวลชนในไอร์แลนด์ ใช้ได้กับหลายเมือง
 - [Student Leap Card และ Young Adult Leap Card ให้ส่วนลด 50%](https://about.leapcard.ie/young-adult-and-student-card-launch)
+  - สามารถซื้อตั๋วลดราคาได้โดยตรงจากแอป [TFI Go](https://www.transportforireland.ie/tfi-go-app/)
 - การเดินทางระหว่างเมือง
   - [Irish Rail](https://www.irishrail.ie/) รถไฟในไอร์แลนด์วิ่งไปเมืองใหญ่ทั้งหมด
     แต่เส้นทางที่วิ่งมักต้องวิ่งเข้าหาศูนย์กลางที่ดับลินก่อน
     ทำให้อาจต้องใช้เวลาเดินทางมากขึ้น
   - รถโค้ช ครอบคลุมแทบทุกเมือง
-  - จากสนามบินดับลินมีรถโค้ชวิ่งตรงไปเมืองใหญ่อย่าง Belfast, Cork, และ Galway
+  - จากสนามบินดับลินมีรถโค้ชวิ่งตรงไปเมืองใหญ่อย่าง Belfast (ไอร์แลนด์เหนือ), Cork และ Galway
 - การเดินทางภายในเมือง
   - [แผนที่สำหรับแต่ละเมือง](https://www.transportforireland.ie/plan-a-journey/network-maps/) โดย Transport for Ireland
 - การเดินทางไปเมืองอื่นในยุโรป
