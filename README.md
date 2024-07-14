@@ -41,28 +41,29 @@
   - ตรวจสอบโรงเรียนภาษาอังกฤษที่ได้รับการรับรองจาก Accreditation and Co-ordination of English Language Services (ACELS) ได้ที่ <https://www.acels.ie>
   - ปี 2024 เป็นช่วงเปลี่ยนผ่านไปสู่ระบบการรับรองคุณภาพแบบใหม่ที่ชื่อว่า [International Education Mark (IEM)](https://www.qqi.ie/what-we-do/quality-assurance-of-education-and-training/what-is-the-international-education-mark) โรงเรียนภาษาอังกฤษหลังจากนี้ ถ้าจะรับนักเรียนจากนอกเขตเศรษฐกิจยุโรป (เช่นจากประเทศไทย) จะต้องได้รับตรา IEM
 - มหาวิทยาลัยทั้งหมดในไอร์แลนด์เป็นมหาวิทยาลัยรัฐ
-  - Dublin City University
-  - National University of Ireland
-    - Maynooth University
-    - University of Galway
-    - University College Cork
-    - University College Dublin
-  - Trinity College Dublin (University of Dublin)
-  - University of Limerick
-  - University of Medicine and Health Sciences (Royal College of Surgeons in Ireland) (ในเมือง Dublin)
-  - Atlantic Technological University (ในเมือง Galway-Mayo, Sligo และ Letterkenny)
-  - Munster Technological University (ในเมือง Cork และ Tralee)
-  - South East Technological University (ในเมือง Carlow และ Waterford)
-  - Technological University Dublin
-  - Technological University of the Shannon: Midlands Midwest (ในเมือง Athlone และ Limerick)
+  - [Dublin City University](https://www.dcu.ie/)
+  - [National University of Ireland](https://www.nui.ie/)
+    - [Maynooth University](https://www.maynoothuniversity.ie/)
+    - [University of Galway](https://www.universityofgalway.ie/)
+    - [University College Cork](https://www.ucc.ie/)
+    - [University College Dublin](https://www.ucd.ie/)
+  - [Trinity College Dublin](https://www.tcd.ie/) (University of Dublin)
+  - [University of Limerick](https://www.ul.ie/)
+  - [University of Medicine and Health Sciences](https://www.rcsi.com/) (Royal College of Surgeons in Ireland) (ในเมือง Dublin)
+  - [Atlantic Technological University](https://www.atu.ie/) (ในเมือง Galway-Mayo, Sligo และ Letterkenny)
+  - [Munster Technological University](https://www.mtu.ie/) (ในเมือง Cork และ Tralee)
+  - [South East Technological University](https://www.setu.ie/) (ในเมือง Carlow และ Waterford)
+  - [Technological University Dublin](https://www.tudublin.ie/)
+  - [Technological University of the Shannon: Midlands Midwest](https://tus.ie/) (ในเมือง Athlone และ Limerick)
 - สถาบันอุดมศึกษาอื่น ทั้งของรัฐและเอกชน เช่น
-  - Dundalk Institute of Technology
-  - Dún Laoghaire Institute of Art, Design and Technology
-  - Dublin Business School
-  - National College of Art and Design (เป็นส่วนหนึ่งของ University College Dublin)
-  - The Lir National Academy of Dramatic Art (เป็นส่วนหนึ่งของ Trinity College Dublin)
-  - Gaiety School of Acting (มีหลักสูตรร่วมกับ University College Dublin)
-  - King's Inn (โรงเรียนกฎหมายของเนติบัณฑิตยสภาไอร์แลนด์)
+  - [Dundalk Institute of Technology](https://www.dkit.ie/)
+  - [Dún Laoghaire Institute of Art, Design and Technology (IADT)](https://iadt.ie/)
+  - [Dublin Business School](https://www.dbs.ie/)
+  - [National College of Art and Design (NCAD)](https://www.ncad.ie/) (เป็นส่วนหนึ่งของ University College Dublin)
+  - [The Lir National Academy of Dramatic Art](https://www.thelir.ie/) (เป็นส่วนหนึ่งของ Trinity College Dublin)
+  - [Gaiety School of Acting](https://gaietyschool.com/) (มีหลักสูตรร่วมกับ University College Dublin)
+  - [Burren College of Art](https://www.burrencollege.ie/) (มีหลักสูตรร่วมกับ University of Galway)
+  - [King's Inn](https://www.kingsinns.ie/) (โรงเรียนกฎหมายของเนติบัณฑิตยสภาไอร์แลนด์)
 
 - NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้ ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ รวมถึงนอร์เวย์ สวิสเซอร์แลนด์ และตุรกี) สามารถศึกษาต่อในระดับต่อไปภายใต้ NFQ/EQF ได้ทันที
 
