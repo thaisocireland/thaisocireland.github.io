@@ -2,7 +2,7 @@
 
 [thaisocireland.github.io](https://thaisocireland.github.io/)
 
-จัดทำโดย[เพจ](https://www.facebook.com/thaistudentsinireland/)/[กลุ่มเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์](https://www.facebook.com/groups/thaisocietyireland/)
+จัดทำโดย[เพจ](https://www.facebook.com/thaistudentsinireland/)/[กลุ่มเฟซบุ๊ก นักเรียนไทยในไอร์แลนด์](https://www.facebook.com/groups/thaisocietyireland/) - ปรับปรุงล่าสุด 14 ก.ค. 2024
 
 - [ข้อมูลเกี่ยวกับดับลิน](./dublin.md)
 
