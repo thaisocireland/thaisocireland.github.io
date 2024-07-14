@@ -58,14 +58,16 @@
 - สถาบันอุดมศึกษาอื่น ทั้งของรัฐและเอกชน เช่น
   - [Dundalk Institute of Technology](https://www.dkit.ie/)
   - [Dún Laoghaire Institute of Art, Design and Technology (IADT)](https://iadt.ie/)
-  - [National College of Art and Design (NCAD)](https://www.ncad.ie/) (เป็นส่วนหนึ่งของ University College Dublin)
+  - [National College of Art and Design (NCAD)](https://www.ncad.ie/) (เป็น recognised college ของ University College Dublin)
   - [The Lir National Academy of Dramatic Art](https://www.thelir.ie/) (เป็นส่วนหนึ่งของ Trinity College Dublin)
-  - [Gaiety School of Acting](https://gaietyschool.com/) (มีหลักสูตร [MA Theatre Practice ](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=Z243)ร่วมกับ University College Dublin)
+  - [Gaiety School of Acting](https://gaietyschool.com/) (มีหลักสูตร [MA Theatre Practice](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=Z243) ร่วมกับ University College Dublin)
   - [Burren College of Art](https://www.burrencollege.ie/) (มีหลักสูตร [MFA in Studio Art](https://www.universityofgalway.ie/courses/taught-postgraduate-courses/fine-art-studio-art.html) ร่วมกับ University of Galway)
   - [Royal Irish Academy of Music](https://www.riam.ie/)
+  - [Mary Immaculate College](https://www.mic.ul.ie/) (วิทยาลัยด้านการศึกษาและศิลปศาสตร์ เป็นส่วนหนึ่ง University of Limerick)
+  - [Marino Institute of Education](https://www.mie.ie/) (เป็น associated college ของ Trinity College Dublin)
   - [National College of Ireland](https://www.ncirl.ie/)
-  - [Griffith College](https://www.griffith.ie/)
   - [Dublin Business School](https://www.dbs.ie/)
+  - [Griffith College](https://www.griffith.ie/)
   - [King's Inn](https://www.kingsinns.ie/) (โรงเรียนกฎหมายของเนติบัณฑิตยสภาไอร์แลนด์)
 
 - NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้ ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ รวมถึงนอร์เวย์ สวิตเซอร์แลนด์ และตุรกี) สามารถศึกษาต่อในระดับต่อไปภายใต้ NFQ/EQF ได้ทันที
