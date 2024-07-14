@@ -58,14 +58,16 @@
 - สถาบันอุดมศึกษาอื่น ทั้งของรัฐและเอกชน เช่น
   - [Dundalk Institute of Technology](https://www.dkit.ie/)
   - [Dún Laoghaire Institute of Art, Design and Technology (IADT)](https://iadt.ie/)
-  - [Dublin Business School](https://www.dbs.ie/)
   - [National College of Art and Design (NCAD)](https://www.ncad.ie/) (เป็นส่วนหนึ่งของ University College Dublin)
   - [The Lir National Academy of Dramatic Art](https://www.thelir.ie/) (เป็นส่วนหนึ่งของ Trinity College Dublin)
   - [Gaiety School of Acting](https://gaietyschool.com/) (มีหลักสูตรร่วมกับ University College Dublin)
-  - [Burren College of Art](https://www.burrencollege.ie/) (มีหลักสูตรร่วมกับ University of Galway)
+  - [Royal Irish Academy of Music](https://www.riam.ie/)
+  - [National College of Ireland](https://www.ncirl.ie/)
+  - [Griffith College](https://www.griffith.ie/)
+  - [Dublin Business School](https://www.dbs.ie/)
   - [King's Inn](https://www.kingsinns.ie/) (โรงเรียนกฎหมายของเนติบัณฑิตยสภาไอร์แลนด์)
 
-- NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้ ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ รวมถึงนอร์เวย์ สวิสเซอร์แลนด์ และตุรกี) สามารถศึกษาต่อในระดับต่อไปภายใต้ NFQ/EQF ได้ทันที
+- NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้ ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ รวมถึงนอร์เวย์ สวิตเซอร์แลนด์ และตุรกี) สามารถศึกษาต่อในระดับต่อไปภายใต้ NFQ/EQF ได้ทันที
 
 [![เทียบ NFQ กับ EQF](./img/nfq-eqf.png "เทียบ NFQ สีเขียว กับ EQF สีส้ม")](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework)
 
