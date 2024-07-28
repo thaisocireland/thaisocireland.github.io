@@ -27,11 +27,11 @@
 
 - การเรียนในไอร์แลนด์นานกว่า 90 วัน ไม่ว่าจะในระดับมหาวิทยาลัยหรือโรงเรียนภาษาอังกฤษ จะต้องขอใบอนุญาตพำนัก และการจะขอใบอนุญาตพำนักได้ จะต้องเลือกหลักสูตรจาก[รายการ Interim List of Eligible Programmes (ILEP)](https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-third-level-course-or-a-language-course/) เท่านั้น
 
-[![National Framework of Qualifications](./img/nfq-2021.jpg "National Framework of Qualifications")](https://www.qqi.ie/what-we-do/the-qualifications-system/national-framework-of-qualifications)
+  [![National Framework of Qualifications](./img/nfq-2021.jpg "National Framework of Qualifications")](https://www.qqi.ie/what-we-do/the-qualifications-system/national-framework-of-qualifications)
 
 - ระบบการศึกษาในไอร์แลนด์ทั้งหมด ทั้งสายสามัญและสายวิชาชีพ จะอยู่ภายใต้กรอบ [National Framework of Qualifications](https://www.qqi.ie/what-we-do/the-qualifications-system/national-framework-of-qualifications) ซึ่งมี 10 ระดับ
   - ในรายละเอียดทุกหลักสูตรจะมีบอกว่าหลักสูตรนี้ NFQ Level อะไร
-  - การศึกษาที่เรียกว่า "Higher Education" หรืออุดมศึกษาในไอร์แลนด์ จะเริ่มต้งแต่ระดับ 6
+  - การศึกษาที่เรียกว่า "Higher Education" หรืออุดมศึกษาในไอร์แลนด์ จะเริ่มตั้งแต่ระดับ 6
   - ระดับ 6 - **Advanced Certificate / Higher Certificate** เทียบเท่า ประกาศนียบัตรชั้นสูง (ปวส.) ของไทย
   - ระดับ 7 - **Ordinary Bachelor Degree** (โดยทั่วไปเรียน 3 ปี) เทียบเท่า ปริญญาตรีของไทย
   - ระดับ 8 - **Higher Diploma / Honour Bachelor Degree** (โดยทั่วไปเรียน 4 ปี) เทียบเท่า ปริญญาตรีของไทย
@@ -72,11 +72,13 @@
 
 - NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้ ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ รวมถึงนอร์เวย์ สวิตเซอร์แลนด์ และตุรกี) สามารถศึกษาต่อในระดับต่อไปภายใต้ NFQ/EQF ได้ทันที
 
-[![เทียบ NFQ กับ EQF](./img/nfq-eqf.png "เทียบ NFQ สีเขียว กับ EQF สีส้ม")](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework)
+  [![เทียบ NFQ กับ EQF](./img/nfq-eqf.png "เทียบ NFQ สีเขียว กับ EQF สีส้ม")](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework)
+
+- สำหรับผู้มีใบอนุญาตพำนักประเภท Stamp 4, Stamp 5, หรือ Stamp 6 ที่พำนักในไอร์แลนด์มาแล้วไม่ต่ำกว่า 3 ปี สามารถสมัครเรียนหลักสูตรในโครงการ Springboard+ และโครงการ Human Capital Initiative Pillar 1 ของรัฐบาลได้ ทั้งนี้หลักสูตรทั้งหมด เรียนฟรี หรือมีส่วนลดสูงสุดถึง 90% มีทั้งหลักสูตรประกาศนียบัตร ปริญญาตรี และปริญญาโท ดูข้อมูลที่ [SpringboardCourses.ie](https://springboardcourses.ie/)
 
 ## ทุนการศึกษา / ทุนวิจัย
 
-### เฉพาะสำหรับไอร์แลนด์
+### เฉพาะไอร์แลนด์
 
 - **[Government of Ireland – International Education Scholarships](https://hea.ie/policy/internationalisation/goi-ies/)**
 - **[Irish Research Council](https://www.educationinireland.com/en/)**
